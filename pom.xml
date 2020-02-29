@@ -26,4 +26,8 @@
         </dependency>
     </dependencies>
 
+    <modules>
+        <module>awm-api-cms</module>
+    </modules>
+
 </project>
