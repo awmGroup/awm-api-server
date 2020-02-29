@@ -28,6 +28,7 @@
 
     <modules>
         <module>awm-api-cms</module>
+        <module>awm-api-customer</module>
     </modules>
 
 </project>
