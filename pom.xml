@@ -19,13 +19,6 @@
         <java.version>1.8</java.version>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
-        </dependency>
-    </dependencies>
-
     <modules>
         <module>awm-api-cms</module>
         <module>awm-api-customer</module>

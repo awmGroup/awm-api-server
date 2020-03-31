@@ -1,11 +1,18 @@
 package com.outdd.awmapicms.pojo;
 
 import com.outdd.common.base.BasePojo;
+import lombok.Data;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import java.io.Serializable;
 
 /**
  * 动态对象
  */
-public class DynamicCircle extends BasePojo {
+@Data
+@Entity
+public class DynamicCircle  extends BasePojo implements Serializable{
     String content;
     Long customerId;
     Long address;
