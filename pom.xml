@@ -12,7 +12,7 @@
     <artifactId>awm-api-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>awm-api-server</name>
-    <description>公共的api接口提供服务包</description>
+    <description>公共的api接口提供服务包啊</description>
     <packaging>pom</packaging>
 
     <properties>

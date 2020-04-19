@@ -3,7 +3,6 @@ package com.outdd.awmapicms.pojo;
 import com.outdd.common.base.BasePojo;
 import lombok.Data;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import java.io.Serializable;
 
